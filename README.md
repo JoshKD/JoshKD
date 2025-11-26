@@ -1,4 +1,4 @@
-# Hello there, I'm Josh Douglas
+# Hello there, I'm Josh
 
 
 I'm working on building practical, security-minded tech projects that delve into understanding systems, strengthening infrastructure, and making operations run smoother.
