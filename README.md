@@ -1,6 +1,6 @@
 # Hello there, I'm Josh Douglas
 
-## 
+
 I'm working on building practical, security-minded tech projects that delve into understanding systems, strengthening infrastructure, and making operations run smoother.
 
 Most of my work is hands-on: real configurations, real logs, and real experiments across networking, cybersecurity, automation, and system analysis. I focus on breaking down complex technical processes into clear, repeatable steps that others can use right away.
@@ -9,7 +9,7 @@ I come from a background spanning finance, legal, and healthcare, where I learne
 
 I plan to use my GitHub to share clean walkthroughs, beginner-friendly security labs, and intermediate-to-advanced setups that show how networks behave, how vulnerabilities emerge, and how to defend against them.
 
-###
+
 🛡️ Cybersecurity Projects: packet sniffing, firewalls, VPNs, intrusion detection, vulnerability scanning
 🌐 Networking Labs: protocol analysis, traffic monitoring, wireless network security
 🔐 Security Hardening: OWASP Top 10 mitigation, password security, log analysis
