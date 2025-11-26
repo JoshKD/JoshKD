@@ -9,13 +9,19 @@ I come from a background spanning finance, legal, and healthcare, where I learne
 
 I plan to use my GitHub to share clean walkthroughs, beginner-friendly security labs, and intermediate-to-advanced setups that show how networks behave, how vulnerabilities emerge, and how to defend against them.
 
-
+## What I plan to work on
 🛡️ Cybersecurity Projects: packet sniffing, firewalls, VPNs, intrusion detection, vulnerability scanning
+
 🌐 Networking Labs: protocol analysis, traffic monitoring, wireless network security
+
 🔐 Security Hardening: OWASP Top 10 mitigation, password security, log analysis
+
 📊 Operational Improvements: automation scripts, troubleshooting tools, system diagnostics
+
 📚 Educational Walkthroughs: step-by-step guides for beginners learning security concepts
+
 ⚙️ Hands-on Experiments: ethical penetration tests, honeypots, SIEM-lite ML models
+
 🧰 Tooling: Wireshark, Scapy, Snort, Suricata, OpenVAS, Nmap, Burp Suite, Kali Linux
 
 
